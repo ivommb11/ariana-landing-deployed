@@ -8,7 +8,7 @@ const HeroSection = () => {
         <img
                   src="/images/Mesa_de_trabajo_1.png" // <-- CAMBIA ESTA RUTA
                   alt="Fondo de la nueva colección" // <-- Cambia el texto alternativo
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover fade-in-up"
                 />
       </div>
 

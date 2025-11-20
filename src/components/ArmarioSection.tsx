@@ -3,17 +3,17 @@ import React from "react";
 const ArmarioSection = () => {
 
   const leftImages = [
-    { id: 1, src: "/images/k1.jpeg", alt: "Explora" },
-    { id: 2, src: "/images/k2.jpeg", alt: "She’s got the look" },
-    { id: 3, src: "/images/k3.jpeg", alt: "Coming soon" },
-    { id: 4, src: "/images/k4.jpeg", alt: "Extra" },
+    { id: 1, src: "/placeholder.jpg", alt: "Explora" },
+    { id: 2, src: "/placeholder.jpg", alt: "She’s got the look" },
+    { id: 3, src: "/placeholder.jpg", alt: "Coming soon" },
+    { id: 4, src: "/placeholder.jpg", alt: "Extra" },
   ];
 
   const rightImages = [
-    { id: 5, src: "/images/k1.jpeg", alt: "She’s got the look" },
-    { id: 6, src: "/images/k2.jpeg", alt: "Coming soon" },
-    { id: 7, src: "/images/k3.jpeg", alt: "Explora" },
-    { id: 8, src: "/images/k4.jpeg", alt: "Extra 2" },
+    { id: 5, src: "/placeholder.jpg", alt: "She’s got the look" },
+    { id: 6, src: "/placeholder.jpg", alt: "Coming soon" },
+    { id: 7, src: "/placeholder.jpg", alt: "Explora" },
+    { id: 8, src: "/placeholder.jpg", alt: "Extra 2" },
   ];
 
   const hoverClasses = "hover:shadow-lg hover:-translate-y-2 transition-all duration-300 cursor-pointer";

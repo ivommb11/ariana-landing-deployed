@@ -38,7 +38,7 @@ const TendenciasSection = () => {
                         </h2>
 
                         {/* Aquí usamos el margen negativo para pegarlo a "TENDENCIAS" */}
-                        <p className="text-2xl md:text-3xl font-light italic opacity-90 pl-60 font-abril -mt-4">
+                        <p className="text-2xl md:text-3xl font-light italic opacity-90 pl-60 font-abril -mt-1">
                           DE PRIMAVERA
                         </p>
                       </div>
